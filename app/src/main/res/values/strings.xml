@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="string1">This is String 1</string>
+    <string name="string2">This is String 2</string>
+    <string name="string3">This is String 3</string>
+    <string name="string4">This is String 4</string>
+    <string name="string5">This is String 5</string>
+    <string name="button_text">Proceed</string>
+</resources>
